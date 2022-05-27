@@ -1,0 +1,18 @@
+segment_sources:
+  I3883E4A8:
+    type: origin_type
+    relation: translation
+    language: sa
+  IB0738650:
+    type: origin_type
+    relation: translation
+    language: zh
+  IBB92F3E1:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  8f5caeb4fb3c41fba82522ef3d630ff9:
+    I3883E4A8: 989453c9ad6640b8b0e1a8d10e104c44
+    IB0738650: 5cd11110386f4b5795c23bad47e20449
+    IBB92F3E1: 899420f870184cd7b0785b19f55ff74e
